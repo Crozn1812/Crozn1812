@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/cam.gif" width="100%"/>
+  <img src="./assets/cam.gif" width="45%"/>
 </p>
 
 <p align="center">
