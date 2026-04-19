@@ -45,13 +45,13 @@
 <tr>
 <td width="50%">
 
-<img src="https://media.giphy.com/media/jUckyQVjuHNx9vXUtv/giphy.gif" width="100%"/>
+<img src="./assets/banner1.gif" width="100%"/>
 
 </td>
 
 <td width="50%">
 
-<h3>🌿 About My Mindset</h3>
+<h3>🌿 I'm 22 years old DevOps | Networking and Systems | Cloud engineer at VietNam.</h3>
 
 <p>
 I’m not just learning tools — I’m learning how <b>systems actually work</b>.
