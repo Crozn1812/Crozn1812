@@ -45,7 +45,7 @@
 <tr>
 <td width="50%">
 
-<img src="./assets/banner1.gif" width="100%"/>
+<img src="./assets/output-onlinegiftools.gif" width="100%"/>
 
 </td>
 
@@ -54,23 +54,23 @@
 <h3>🌿 I'm 22 years old DevOps | Networking and Systems | Cloud engineer at VietNam.</h3>
 
 <p>
-I’m not just learning tools — I’m learning how <b>systems actually work</b>.
+🔥 I’m not just learning tools — I’m learning how <b>systems actually work</b>.
 </p>
 
 <p>
-I enjoy understanding how <b>data flows</b>, how services communicate, and how infrastructure can be designed to be <b>simple but powerful</b>.
+🔥 I enjoy understanding how <b>data flows</b>, how services communicate, and how infrastructure can be designed to be <b>simple but powerful</b>.
 </p>
 
 <p>
-From networking to cloud pipelines, I like to break things down and rebuild them in a clearer way.
+🔥 From networking to cloud pipelines, I like to break things down and rebuild them in a clearer way.
 </p>
 
 <p>
-I prefer <b>real practice over theory</b>, and I learn by building.
+🔥 I prefer <b>real practice over theory</b>, and I learn by building.
 </p>
 
 <p>
-Curiosity + consistency = my growth 🚀
+🔥 And if you want to contact me, you can message me via LK. I know how to play games and sports (League of Legends and Valorant | Basketball and Soccer). 🚀
 </p>
 
 </td>
