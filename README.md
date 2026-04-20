@@ -51,10 +51,8 @@
 
 <td width="50%">
 
-<h3>🌿 I'm 22 years old DevOps | Networking and Systems | Cloud Engineer Intern at VietNam. 🔥
-    🌿 I'm a fourth-year student at Posts and Telecommunications Institute of Technology (PTIT). 🔥  
-</h3>
-
+<h3>🌿 I'm 22 years old DevOps | Networking and Systems | Cloud Engineer Intern at VietNam. 🔥 </h3>
+<h3>🌿I'm a fourth-year student at Posts and Telecommunications Institute of Technology (PTIT). </h3>
 <p>
 🔥 I’m not just learning tools — I’m learning how <b>systems actually work</b>.
 </p>
