@@ -70,7 +70,7 @@
 </p>
 
 <p>
-🔥 And if you want to contact me, you can message me via LK. I know how to play games and sports (League of Legends and Valorant | Basketball and Soccer). 🚀
+🔥 And if you want to contact me, you can message me via Linkedin. I know how to play games and sports (League of Legends and Valorant | Basketball and Soccer). 🚀
 </p>
 
 </td>
