@@ -25,7 +25,9 @@
   <a href="https://raw.githubusercontent.com/Crozn1812/Crozn1812/main/assets/cv.jpg">
     <img src="https://img.shields.io/badge/View%20CV-white?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" />
   </a>
-  
+    <a href="https://www.linkedin.com/in/nguyenhuubaoduy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="http://47.129.202.21/">
     <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
@@ -114,7 +116,9 @@
   <a href="https://github.com/Crozn1812">
     <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-
+  <a href="https://www.linkedin.com/in/nguyenhuubaoduy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="http://47.129.202.21/">
     <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome" />
   </a>
