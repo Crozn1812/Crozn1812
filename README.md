@@ -22,7 +22,7 @@
 
 <!-- BUTTONS -->
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Crozn1812/Crozn1812/main/assets/cv.pdf">
+  <a href="https://raw.githubusercontent.com/Crozn1812/Crozn1812/main/assets/cv.jpg">
     <img src="https://img.shields.io/badge/View%20CV-white?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" />
   </a>
   
@@ -51,7 +51,7 @@
 
 <td width="50%">
 
-<h3>🌿 I'm 22 years old DevOps | Networking and Systems | Cloud engineer at VietNam.</h3>
+<h3>🌿 I'm 22 years old DevOps | Networking and Systems | Cloud Engineer Intern at VietNam.</h3>
 
 <p>
 🔥 I’m not just learning tools — I’m learning how <b>systems actually work</b>.
